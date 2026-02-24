@@ -1,0 +1,3 @@
+[submodule "plugin.video.phagelite"]
+	path = omega/plugin.video.phagelite
+	url = git@github.com:phagelite/plugin.video.phagelite.git
